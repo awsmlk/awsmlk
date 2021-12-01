@@ -32,5 +32,5 @@ const Oxygen = {
 
 <br />
 <br />
-[twitter]: https://twitter.com/YouTubeOxygen
-[spotify]: https://open.spotify.com/playlist/4zfVyBZjcGnndYRBkJbCcG?si=0rKsfjmjQGqgI6Jh7mbe8A
+>/[twitter]: https://twitter.com/YouTubeOxygen
+>/[spotify]: https://open.spotify.com/playlist/4zfVyBZjcGnndYRBkJbCcG?si=0rKsfjmjQGqgI6Jh7mbe8A

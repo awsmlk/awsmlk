@@ -7,7 +7,7 @@ Well, this is it, thanks for visiting my profile, have a good one! <4
 
 ### Connect with me:
 
-[<img align="left" alt="YouTubeOxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Oxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -28,3 +28,7 @@ const Oxygen = {
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Oxygen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OxygenYouTube&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+[twitter]: https://twitter.com/YouTubeOxygen

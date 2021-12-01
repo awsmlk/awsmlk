@@ -35,12 +35,8 @@ const Oxygen = {
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=OxygenYouTube&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=OxygenYouTube&theme=tokyonight">
-  </p>
-</details>
-  
-<!-- Last updated on Wed Dec 01 2021 05:16:44 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 1st December 2021 using magic</i> ✨
 
+ 
 <br />
 <br />
 [twitter]: https://twitter.com/YouTubeOxygen

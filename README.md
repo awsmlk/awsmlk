@@ -1,4 +1,4 @@
-## Hey There! 👋🏼 <img align="right" src="https://cdn.discordapp.com/attachments/846799489024000010/915676020852551700/48992812-AF14-4A19-9E77-912B0EDF3605.jpgv=4" width="200" />
+## Hey There! 👋🏼 <img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
 
 Hey There! I'm **Oxygen**, a novice developer. I like to code applications and web's. I have worked on handful number of projects in my past, gonna be working on more soon.
 

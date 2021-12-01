@@ -16,12 +16,12 @@ Well, this is it, thanks for visiting my profile, have a good one! <4
 ```js
 const Oxygen = {
     FavouriteLanguage: "Javascript",
-    FavouriteDrink: Wot'ah,
-    Hobbies: Playing Badminton 🏸,
-    Ramen: YES
-    Sleep: YES
-          
-}; //I Wuv You <3
+    FavouriteDrink: "Wot'ah",
+    Hobbies: "Playing Badminton 🏸",
+    Ramen: "YES"
+    Sleep: "YES"
+         }; 
+//I Wuv You <3
 ```
   
 <details>

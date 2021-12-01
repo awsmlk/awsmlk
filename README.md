@@ -24,11 +24,22 @@ const Oxygen = {
          }; 
 //I Wuv You <3
 ```
-  
+  <h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OxygenYouTube&theme=tokyonight">
+</p>
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Oxygen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OxygenYouTube&show_icons=true&hide_border=true" />
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=OxygenYouTube&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=OxygenYouTube&theme=tokyonight">
+  </p>
+</details>
+  
+<!-- Last updated on Wed Dec 01 2021 05:16:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st December 2021 using magic</i> ✨
 
 <br />
 <br />

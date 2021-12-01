@@ -7,8 +7,8 @@ Well, this is it, thanks for visiting my profile, have a good one! <4
 
 ### Connect with me:
 
-[<img align="left" alt="Oxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Oxygen | Spotify" width="22px" src="https://cdn.discordapp.com/attachments/549288521970614307/915685491066695760/IMG_9913.png" />][Spotify]
+<img align="left" alt="Oxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
+<img align="left" alt="Oxygen | Spotify" width="22px" src="https://cdn.discordapp.com/attachments/549288521970614307/915685491066695760/IMG_9913.png" />[Spotify]
 
 <br />
 

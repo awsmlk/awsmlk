@@ -20,7 +20,7 @@ Well, this is it, thanks for visiting my profile, have a good one! <4
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-<h2 align="center"> ✨ Me ✨</h2>
+<h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
 const Oxygen = {

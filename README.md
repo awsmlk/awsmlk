@@ -1,13 +1,14 @@
 ## Hey There! 👋🏼 <img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
 
-Hey There! I'm **Oxygen**, a novice developer. I like to code applications and web's. I have worked on handful number of projects in my past, gonna be working on more soon.
+
+I'm **Oxygen**, a novice developer. I like to code applications and web's. I have worked on handful number of projects in my past, gonna be working on more soon.
 
 Well, this is it, thanks for visiting my profile, have a good one! <4
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Oxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Oxygen | Spotify" width="22px" src="https://cdn.discordapp.com/attachments/549288521970614307/915685491066695760/IMG_9913.png"/>][Spotify]
 
 <br />

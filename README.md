@@ -2,7 +2,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
 
 
-I'm **Awais**, a novice developer. I like to building applications and web projects. I’ve worked on a handful of projects already and am excited to keep learning and creating more in the future.
+I’m **Awais**, a novice developer who enjoys building applications and web projects. I’ve already worked on a handful of projects and I’m excited to keep learning and creating more in the future.
 Well, this is it, thanks for visiting my profile, have a good one! ><
 
 

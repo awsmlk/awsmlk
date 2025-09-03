@@ -1,5 +1,5 @@
 ## Hey There! 👋🏼 
-<img align="right" src="[https://i.postimg.cc/JzdZh9nf/C6-D148-F6-85-A4-4-EE0-A71-F-1-BE4-D2-AE58-EE.png]" width="200" />
+<img align="right" src="https://i.postimg.cc/JzdZh9nf/C6-D148-F6-85-A4-4-EE0-A71-F-1-BE4-D2-AE58-EE.png" width="200" />
 
 
 I’m **Awais**, a novice developer who enjoys building applications and web projects. I’ve already worked on a handful of projects and I’m excited to keep learning and creating more in the future.

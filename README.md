@@ -1,4 +1,5 @@
-## Hey There! 👋🏼 
+<h2 align="center"> ## Hey There! 👋🏼
+<p align="center">
 <img align="right" src="https://i.postimg.cc/JzdZh9nf/C6-D148-F6-85-A4-4-EE0-A71-F-1-BE4-D2-AE58-EE.png" width="200" />
 
 

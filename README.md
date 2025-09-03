@@ -8,7 +8,7 @@ Well, this is it, thanks for visiting my profile, have a good one! ><
 
   <h2 align="center"> Connect With Me </h2>
 
-[<img align="left" alt="Awais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Awais | Twitter" width="22px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"/>][twitter]
 [<img align="left" alt="Awais | Spotify" width="22px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Black.png"/>][Spotify]
 
 <br />

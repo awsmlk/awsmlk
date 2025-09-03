@@ -8,8 +8,8 @@ Well, this is it, thanks for visiting my profile, have a good one! ><
 
   <h2 align="center"> Connect With Me </h2>
 
-[<img align="center" alt="Awais | Twitter" width="22px" src="https://i.postimg.cc/Y9Z1GS7L/IMG-9337.webpRGB_Green.png"/>][twitter]
-[<img align="center" alt="Awais | Spotify" width="22px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.pngRGB_Black.png"/>][Spotify]
+[<img align="center" alt="Awais | Twitter" width="22px" src="https://i.postimg.cc/Y0XBfTXF/IMG-9338.png"/>][twitter]
+[<img align="center" alt="Awais | Spotify" width="22px" src="https://https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"/>][Spotify]
 
 <br />
 

@@ -7,8 +7,8 @@ Well, this is it, thanks for visiting my profile, have a good one! ><
 
 ### Connect with me:
 
-[<img align="left" alt="Oxygen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Oxygen | Spotify" width="22px" src="https://cdn.discordapp.com/attachments/549288521970614307/915685491066695760/IMG_9913.png"/>][Spotify]
+[<img align="left" alt="Awais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Awais | Spotify" width="22px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Black.png"/>][Spotify]
 
 <br />
 
@@ -34,18 +34,18 @@ const Awais = {
 ```
   <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OxygenYouTube&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight">
 </p>
 <details>
   <summary>
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=OxygenYouTube&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=OxygenYouTube&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=awsmlk&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight">
 
  
 <br />
       
-[twitter]: https://twitter.com/YouTubeOxygen
+[twitter]: https://twitter.com/awsmlks
 [spotify]: https://open.spotify.com/playlist/4zfVyBZjcGnndYRBkJbCcG?si=0rKsfjmjQGqgI6Jh7mbe8A

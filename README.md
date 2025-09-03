@@ -1,19 +1,20 @@
-## Hey There! 👋🏼 <img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
+## Hey There! 👋🏼 
+<img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
 
 
 I'm **Awais**, a novice developer. I like to building applications and web projects. I’ve worked on a handful of projects already and am excited to keep learning and creating more in the future.
 Well, this is it, thanks for visiting my profile, have a good one! ><
 
 
-### Connect with me:
+  <h2 align="center"> Connect With Me </h2>
 
 [<img align="left" alt="Awais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Awais | Spotify" width="22px" src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Black.png"/>][Spotify]
 
 <br />
 
-### Languages and Tools:
-
+  <h2 align="center"> Languages and Tools </h2>
+<p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />

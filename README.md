@@ -1,9 +1,8 @@
 ## Hey There! 👋🏼 <img align="right" src="https://avatars.githubusercontent.com/u/90985091?s=400&u=6d39c843e2ae46ae223e15298d8f3120f63d6966&v=4" width="200" />
 
 
-I'm **Oxygen**, a novice developer. I like to code applications and web's. I have worked on handful number of projects in my past, gonna be working on more soon.
-
-Well, this is it, thanks for visiting my profile, have a good one! <4
+I'm **Awais**, a novice developer. I like to building applications and web projects. I’ve worked on a handful of projects already and am excited to keep learning and creating more in the future.
+Well, this is it, thanks for visiting my profile, have a good one! ><
 
 
 ### Connect with me:
@@ -24,14 +23,14 @@ Well, this is it, thanks for visiting my profile, have a good one! <4
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const Oxygen = {
+const Awais = {
     FavouriteLanguage: "Javascript",
     FavouriteDrink: "Wot'ah",
-    Hobbies: "Playing Badminton 🏸",
+    Hobbies: "Playing Chess ♟️",
     Ramen: "YES"
     Sleep: "YES"
          }; 
-//I Wuv You <3
+//mhmmmmmmmmm
 ```
   <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">

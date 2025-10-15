@@ -2,15 +2,14 @@
 <img align="right" src="https://i.postimg.cc/JzdZh9nf/C6-D148-F6-85-A4-4-EE0-A71-F-1-BE4-D2-AE58-EE.png" width="200" alt="Awais avatar" />
 
 <p>
-  I'm <b>Awais</b>, a budding developer passionate about building applications and web projects.
-  I've already worked on a few cool things and I'm excited to keep learning and creating more in the future.
-  <br />Thanks for visiting my profile — have a good one! ✌️
+I’m **Awais**, a novice developer who enjoys building applications and web projects. I’ve already worked on a handful of projects and I’m excited to keep learning and creating more in the future.
+Well, this is it, thanks for visiting my profile, have a good one! ><
 </p>
 
 <hr />
 
-<h2 align="center">🌐 Connect With Me 🌐</h2>
-<p align="center">
+<h2 align="left">🌐 Connect With Me 🌐</h2>
+<p align="left">
   <a href="https://twitter.com/awsmlks" target="_blank">
     <img alt="Awais | Twitter" width="32" src="https://i.postimg.cc/Y0XBfTXF/IMG-9338.png" />
   </a>
@@ -22,8 +21,8 @@
 
 <hr />
 
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
-<p align="center">
+<h2 align="left">🛠️ Languages and Tools 🛠️</h2>
+<p align="left">
   <img alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
@@ -32,7 +31,7 @@
 
 <hr />
 
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="left">✨ About Me ✨</h2>
 <pre>
 <code>
 const Awais = {
@@ -40,7 +39,7 @@ const Awais = {
   favouriteDrink: "Wot'ah 💧",
   hobbies: "Playing Chess ♟️",
   ramen: "YES 🍜",
-  sleep: "ALSO YES 😴"
+  sleep: "YES 😴"
 };
 // mhmmmmmmmmm
 </code>
@@ -48,15 +47,16 @@ const Awais = {
 
 <hr />
 
-<h2 align="center">🚀 My Stats 🚀</h2>
-<p align="center">
+<h2 align="left">🚀 My Stats 🚀</h2>
+<p align="left">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight" />
 </p>
 
+
 <details>
-  <summary align="center"><b>✨ Even More Stats ✨</b></summary>
+  <summary align="left"><b>✨ Even More Stats ✨</b></summary>
   <br />
-  <p align="center">
+  <p align="left">
     <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=awsmlk&theme=tokyonight" />
     <br />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight&show_icons=true" />
@@ -67,4 +67,4 @@ const Awais = {
 
 <hr />
 
-<p align="center">💬 “Code. Sleep. Ramen. Repeat.” 🍜</p>
+<p align="left">💬 “Code. Sleep. Ramen. Repeat.” 🍜</p>

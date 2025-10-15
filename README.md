@@ -49,7 +49,7 @@ const Awais = {
 
 <h2 align="left">🚀 My Stats 🚀</h2>
 <p align="left">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=@awsmlk&theme=tokyonight" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight" />
 </p>
 
 
@@ -57,11 +57,11 @@ const Awais = {
   <summary align="left"><b>✨ Even More Stats ✨</b></summary>
   <br />
   <p align="left">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=@awsmlk&theme=tokyonight" />
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=awsmlk&theme=tokyonight" />
     <br />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=@awsmlk&theme=tokyonight&show_icons=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight&show_icons=true" />
     <br />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@awsmlk&layout=compact&theme=tokyonight" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsmlk&layout=compact&theme=tokyonight" />
   </p>
 </details>
 

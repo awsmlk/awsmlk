@@ -34,15 +34,15 @@ const Awais = {
 ```
   <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight">
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight)">
 </p>
 <details>
   <summary>
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=awsmlk&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight">
+    <img src="[https://github-profile-trophy.vercel.app/?username=awsmlk&theme=dracula](https://github-profile-trophy.vercel.app/?username=awsmlk&theme=tokyonight)">
+    <img src="[https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight)">
 
  
 <br />

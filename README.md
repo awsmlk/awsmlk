@@ -2,7 +2,7 @@
 <img align="right" src="https://i.postimg.cc/JzdZh9nf/C6-D148-F6-85-A4-4-EE0-A71-F-1-BE4-D2-AE58-EE.png" width="200" alt="Awais avatar" />
 
 <p>
-I’m **Awais**, a novice developer who enjoys building applications and web projects. I’ve already worked on a handful of projects and I’m excited to keep learning and creating more in the future.
+I’m <b>Awais</b>, a novice developer who enjoys building applications and web projects. I’ve already worked on a handful of projects and I’m excited to keep learning and creating more in the future.
 Well, this is it, thanks for visiting my profile, have a good one! ><
 </p>
 
@@ -49,7 +49,7 @@ const Awais = {
 
 <h2 align="left">🚀 My Stats 🚀</h2>
 <p align="left">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=awsmlk&theme=tokyonight" />
+  <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight&show_icons=true" />
 </p>
 
 
@@ -58,9 +58,7 @@ const Awais = {
   <br />
   <p align="left">
     <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=awsmlk&theme=tokyonight" />
-    <br />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight&show_icons=true" />
-    <br />
+  <br />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsmlk&layout=compact&theme=tokyonight" />
   </p>
 </details>

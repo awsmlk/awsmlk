@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m <b>Awais</b>, a novice developer who enjoys building applications and web projects. I’m looking to collaborate on open-source projects, web apps, or anything creative. Frontend workflows, design systems, or building side projects from scratch. I notice the small details most people skip.<br>
+I’m <b>Awais</b>, I enjoy building apps and web projects. I’m looking to collaborate on open-source projects, web apps, or anything creative. Frontend workflows, design systems, or building side projects from scratch. I notice the small details most people skip >< <br>
 
 
 ## 🌐 Socials:

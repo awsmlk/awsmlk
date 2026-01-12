@@ -11,6 +11,3 @@ I’m <b>Awais</b>, I enjoy building apps and web projects. I’m looking to col
 ![](https://github-readme-stats.vercel.app/api?username=awsmlk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=awsmlk&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awsmlk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=awsmlk&icon=0&color=1)](https://visitcount.itsvg.in)
